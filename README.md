@@ -95,5 +95,12 @@ The FIFA Club World Cup 2025 is a landmark tournament that features 32 of the to
   
 <img width="1499" height="724" alt="Heatmap Club RevPerMatch (2)" src="https://github.com/user-attachments/assets/2ca07535-7f33-4f83-9bcc-10dd5fb2f8e1" />
 
+---
+## 🧑‍💼 Author
+
+**SON T NGUYEN**  
+Data Analyst | Power BI | SQL | Excel | Python  
+📧  STNGUYEN256@GMAIL.COM
+
 
 
