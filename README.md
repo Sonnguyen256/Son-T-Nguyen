@@ -100,6 +100,7 @@ The FIFA Club World Cup 2025 is a landmark tournament that features 32 of the to
 
 **SON T NGUYEN**  
 Data Analyst | Power BI | SQL | Excel | Python  | Tableau
+
 📧  STNGUYEN256@GMAIL.COM
 
 
